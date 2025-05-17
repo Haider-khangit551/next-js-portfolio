@@ -107,7 +107,7 @@ const Contact = () => {
                     )}
                 </motion.button>
 
-                {result && <p className='text-center mt-4 text-sm text-gray-700'>{result}</p>}
+                {result && <p className='text-center mt-4 text-sm text-green-500'>{result}</p>}
             </motion.form>
         </motion.div>
     );
