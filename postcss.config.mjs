@@ -34,7 +34,7 @@ const config = {
       },
     },
   },
-  darkMode: 'selector',
+  // darkMode: 'selector',
   plugins: ["@tailwindcss/postcss"]
 };
 
