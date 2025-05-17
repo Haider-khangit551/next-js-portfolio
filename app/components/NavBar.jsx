@@ -62,7 +62,7 @@ const NavBar = () => {
                     <li onClick={closeMenu} className='font-ovo'><a href="#top">Home</a></li>
                     <li onClick={closeMenu} className='font-ovo'><a href="#about">About Me</a></li>
                     <li onClick={closeMenu} className='font-ovo'><a href="#services">Services</a></li>
-                    <li onClick={closeMenu} className='font-ovo'><a href="#twork">My Work</a></li>
+                    <li onClick={closeMenu} className='font-ovo'><a href="#work">My Work</a></li>
                     <li onClick={closeMenu} className='font-ovo'><a href="#contact">Contact Me</a></li>
                 </ul>
 
